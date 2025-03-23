@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" width="150">
+  <img src="https://raw.githubusercontent.com/Aswinvasu04/final-projet/refs/heads/main/placeitxr-removebg-preview%20(2).png" width="350">
   <h1>AI-Powered AR Product Visualization</h1>
   <p><i>Revolutionizing Online Shopping with AI and Augmented Reality</i></p>
 </div>
