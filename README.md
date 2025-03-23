@@ -19,19 +19,19 @@ Shopping online can be challenging, especially when trying to find products that
 ## 🔍 Solution  
 PlaceIT XR is a smart AR/VR shopping assistant that:
 
-✔️ **AI-powered search optimization:**
+* **AI-powered search optimization:**
  
 User enters the product name. If it's a space-dependent product (like furniture), the user uploads an image of the placement area. A multimodal AI (Gemini) analyzes the space (color scheme, style) and creates an optimized search query. The AI fetches the best-matching results from Google Shopping (top 10-15).
 
-✔️ **3D & AR Integration:**
+* **3D & AR Integration:**
 
 Users can select a product and visualize it in AR. We web scrape product images and convert them into 3D models using Stable-Fast-3D (running on a server). The generated 3D models are displayed in AR using Unity.
 
-✔️ **VR Real Estate Shopping:**
+* **VR Real Estate Shopping:**
  
 Real estate agents can use our platform to recreate homes/flats in VR. Buyers can browse & place furniture/products inside their VR home before purchasing. Supports Oculus Quest 2 for an immersive experience.
 
-✔️ **Context-Aware AI Chatbot:**
+* **Context-Aware AI Chatbot:**
   
 A smart AI chatbot helps users find the right product and answers questions. Understands product details, specifications, reviews, and comparisons in real-time. Offers personalized recommendations based on user preferences and search history.
 
@@ -59,7 +59,7 @@ A smart AI chatbot helps users find the right product and answers questions. Und
 ---
 
 
-## Use Cases
+## 🔑 Use Cases
 
 *   Homeowners & Renters – Easily visualize furniture before buying.
 *   Fashion Shoppers – Find the best product fit based on style & preference.
@@ -92,7 +92,7 @@ A smart AI chatbot helps users find the right product and answers questions. Und
 ---
 
 
-## Usage
+## ⚙️ Usage
 
 ### Flutter Frontend
 
@@ -110,7 +110,7 @@ The Flask server provides the following endpoints:
 
 ---
 
-## Model Uploading and Downloading
+## 🏁 Model Uploading and Downloading
 
 The Model-uploading & Downloading directory contains scripts for uploading and downloading 3D models.
 
@@ -124,7 +124,7 @@ The Model-uploading & Downloading directory contains scripts for uploading and d
 
 ---
 
-## Next Steps for the Hackathon
+## 📈 Next Steps for the Hackathon
 
 *   Prototype the AI search system using Gemini.
 *   Develop a basic AR model viewer using Unity.
@@ -136,7 +136,7 @@ The Model-uploading & Downloading directory contains scripts for uploading and d
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
+## 📜 License
 
 MIT License
 
