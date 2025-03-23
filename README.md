@@ -1,17 +1,18 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aswinvasu04/final-projet/refs/heads/main/placeitxr-removebg-preview%20(2).png" width="350">
   <h1>AI-Powered AR Product Visualization</h1>
-  <p><i>PlaceIT XR is an AI-powered AR/VR shopping assistant that helps users find and visualize the perfect product fit in their space.</i></p>
+  <p><i>PlaceIT XR is an AI-powered AR/VR based shopping app that helps users find and visualize the perfect product fit in their space.</i></p>
 </div>
 
 ---
 
 ## 🚀 Overview  
-🛍️ **Problem Statement**  
-Shopping online can be challenging, especially when trying to find products that match a space (furniture, décor) or personal preferences (shoes, accessories). Customers struggle with:  
-✔️ **Visualizing** how a product fits in their environment.  
-✔️ **Matching colors and aesthetics** with their surroundings.  
-✔️ **Making informed decisions** before purchasing.  
+**Problem Statement**  
+Shopping online can be challenging, especially when trying to find products that match a space (furniture, décor) or personal preferences (shoes, accessories). Customers struggle with:
+
+* **Visualizing** how a product fits in their environment.  
+* **Matching colors and aesthetics** with their surroundings.  
+* **Making informed decisions** before purchasing.  
 
 ---
 
@@ -37,14 +38,14 @@ A smart AI chatbot helps users find the right product and answers questions. Und
 ---
 
 ## 🎯 Target Audience  
-👨‍🎨 **Interior Designers** – Ensure perfect decor matches.  
-🛍️ **Online Shoppers** – Try before you buy.  
-🏢 **Retail & E-Commerce** – Enhance customer experience.  
-📲 **Tech Enthusiasts** – Experience AI-driven AR.  
+ **Interior Designers** – Ensure perfect decor matches.  
+ **Online Shoppers** – Try before you buy.  
+ **Retail & E-Commerce** – Enhance customer experience.  
+ **Tech Enthusiasts** – Experience AI-driven AR.  
 
 ---
 
-## 🏗️ Tech Stack  
+## 🗃️ Tech Stack  
 
 | **Category**      | **Technologies**                                  |
 |-------------------|---------------------------------------------------|
@@ -57,11 +58,6 @@ A smart AI chatbot helps users find the right product and answers questions. Und
 
 ---
 
-## 🎬 Demo  
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-🔗 Click to watch how our platform transforms **online shopping with AR**.
-
----
 
 ## Use Cases
 
@@ -125,14 +121,6 @@ The Model-uploading & Downloading directory contains scripts for uploading and d
     3.  Run server.py and enter the ngrok URL when prompted.
     4.  Enter the path to the image you want to upload.
     5.  The script will upload the image, wait for the model to be generated, and download the model to the current directory.
-
----
-
-## Next Steps for the Hackathon
-
-*   Prototype the AI search system using Gemini.
-*   Develop a basic AR model viewer using Unity.
-*   Create a demo for the VR real estate feature.
 
 ---
 
