@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/698ffc61-db0c-46d7-931c-4eb17c677809)<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Aswinvasu04/final-projet/refs/heads/main/placeitxr-removebg-preview%20(2).png" width="350">
   <h1>AI-Powered AR Product Visualization</h1>
   <p><i>PlaceIT XR is an AI-powered AR/VR shopping assistant that helps users find and visualize the perfect product fit in their space.</i></p>
@@ -24,7 +24,7 @@ User enters the product name. If it's a space-dependent product (like furniture)
 
 ✔️ **3D & AR Integration:**
 
-Users can select a product and visualize it in AR.We web scrape product images and convert them into 3D models using Stable-Fast-3D (running on a server). The generated 3D models are displayed in AR using Unity.
+Users can select a product and visualize it in AR. We web scrape product images and convert them into 3D models using Stable-Fast-3D (running on a server). The generated 3D models are displayed in AR using Unity.
 
 ✔️ **VR Real Estate Shopping:**
  
