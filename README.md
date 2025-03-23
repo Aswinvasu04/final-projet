@@ -71,7 +71,7 @@ A smart AI chatbot helps users find the right product and answers questions. Und
 
 ### Flutter Frontend
 
-1.  Follow the official Flutter documentation to set up Flutter on your machine: \[https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+1.  Follow the official Flutter documentation to set up Flutter on your machine: [https://docs.flutter.dev/get-started/install]
 2.  Clone this repository.
 3.  Navigate to the project directory: cd shopping_mobile
 4.  Get dependencies: flutter pub get
